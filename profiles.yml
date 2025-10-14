@@ -1,0 +1,13 @@
+default:
+  target: dev
+  outputs:
+    dev:
+      type: snowflake
+      threads: 16
+      account: ULJBYKY-CC78936
+      user: FERNANDOCOMPEAN
+      database: analytics
+      warehouse: transforming
+      schema: dbt_fcompean
+      password: Lolabunny8330#
+      role: ACCOUNTADMIN
